@@ -1,6 +1,6 @@
-# [Gadget Heaven]() - One-stop solution for your favorite gadgets.
+# [Gadget Heaven](https://gadget-heaven-ihbbzvi9f-codewithshahriars-projects.vercel.app) - One-stop solution for your favorite gadgets.
 
-**Gadget Heaven:** serves as a centralized platform to explore, review, and compare popular electronic gadgets. It offers detailed descriptions, specifications, and reviews, aimed at helping users make informed purchase decisions. Visit [Gadget Heaven]() for more.
+**Gadget Heaven:** serves as a centralized platform to explore, review, and compare popular electronic gadgets. It offers detailed descriptions, specifications, and reviews, aimed at helping users make informed purchase decisions. Visit [Gadget Heaven](https://gadget-heaven-ihbbzvi9f-codewithshahriars-projects.vercel.app) for more.
 
 ### Used Technologies
 
